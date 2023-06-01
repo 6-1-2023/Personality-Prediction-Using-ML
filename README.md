@@ -2,6 +2,8 @@
 “Personality Prediction Using Machine Learning Techniques”
 
 ## I wrote at least pages 40/67 of the paper, specifically: <br>
+![Inkedchrome_GKfiQ7H85x](https://github.com/6-1-2023/Graduation-Project-Paper/assets/135245555/21a85af6-0b91-4fed-a1cf-88524dfccfa9)
+
 1-10 (10 pages) <br>
 15-24 (10 pages) <br>
 38 <br>
@@ -19,5 +21,4 @@
 
 #
 
-![Inkedchrome_GKfiQ7H85x](https://github.com/6-1-2023/Graduation-Project-Paper/assets/135245555/21a85af6-0b91-4fed-a1cf-88524dfccfa9)
 
