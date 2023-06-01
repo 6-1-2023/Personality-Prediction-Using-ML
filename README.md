@@ -1,5 +1,5 @@
 # Graduation-Project-Paper
-##“Personality Prediction Using Machine Learning Techniques” <br>
+## Personality Prediction Using Machine Learning Techniques <br>
 Putting writing aside, I implemented what was described in the paper from start to finish (from preprocessing to model building and prediction). My coauthors each built different systems on their own and what eventually was written about was the one I created—using various libraries at each stage (NumPy, pandas, PyTorch, Huggingface's Transformers, etc.). 
 
 ## I wrote at least pages 40/67 of the paper, specifically: <br>
