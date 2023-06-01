@@ -2,7 +2,7 @@
 ## Personality Prediction Using Machine Learning Techniques <br>
 Putting writing aside, I implemented what was described in the paper from start to finish (from preprocessing to model building and prediction). My coauthors each built different systems on their own and what eventually was written about was the one I created—using various libraries at each stage (NumPy, pandas, PyTorch, Huggingface's Transformers, etc.). 
 
-## I wrote at least pages 40/67 of the paper, specifically: <br>
+## I wrote at least pages 40/67 of the paper, particularly: <br>
 ![Inkedchrome_GKfiQ7H85x](https://github.com/6-1-2023/Graduation-Project-Paper/assets/135245555/21a85af6-0b91-4fed-a1cf-88524dfccfa9)
 ![Inkedchrome_mGS3S9C7vs](https://github.com/6-1-2023/Graduation-Project-Paper/assets/135245555/dadb33d9-7194-4f7c-959a-d9cf02e55957)
 
