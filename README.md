@@ -1,7 +1,7 @@
 # Graduation-Project-Paper
 “Personality Prediction Using Machine Learning Techniques”
 
-I wrote at least pages 40/67 of the paper, specifically: <br>
+# I wrote at least pages 40/67 of the paper, specifically: <br>
 1-10 (10 pages) <br>
 15-24 (10 pages) <br>
 38 <br>
